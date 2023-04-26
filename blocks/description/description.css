@@ -1,0 +1,11 @@
+@import url(__two-columns/description__two-columns.css);
+@import url(__brief/description__brief.css);
+@import url(__main-text/description__main-text.css);
+@import url(__pharagraph/description__pharagraph.css);
+@import url(__span-accent/description__span-accent.css);
+@import url(_pos/description_pos.css);
+
+.description {
+  display: flex;
+  justify-content: center;
+}
