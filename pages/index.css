@@ -5,6 +5,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/techniques/techniques.css);
+@import url(../blocks/digits/digits.css);
 
 * {
   margin: 0;
