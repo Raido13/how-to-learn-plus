@@ -1,0 +1,7 @@
+@import url(../__column/_copyright/footer__column_copyright.css);
+@import url(../__column/_info/footer__column_info.css);
+@import url(../__column/_social/footer__column_social.css);
+
+.footer__columns{
+  margin: 60px auto 40px;
+}

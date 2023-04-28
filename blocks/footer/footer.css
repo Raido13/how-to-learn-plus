@@ -1,0 +1,8 @@
+@import url(_pos/footer_pos.css);
+@import url(__columns/footer__columns.css);
+
+.footer {
+  background-color: #1f1f1f;
+  display: flex;
+  min-height: 350px;
+}

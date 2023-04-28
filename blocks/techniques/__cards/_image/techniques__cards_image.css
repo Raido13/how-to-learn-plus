@@ -1,4 +1,6 @@
 .techniques__cards_image{
   margin: 60px 40px 43px;
   border-radius: 50%;
+  height: 160px;
+  width: 160px;
 }
