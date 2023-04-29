@@ -1,0 +1,13 @@
+.footer__column_link {
+  color: #fff;
+  text-decoration: none;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  display: flex;
+  align-items: center;
+}
+
+.footer__column_link:nth-child(2) {
+  margin: 10px 0;
+}

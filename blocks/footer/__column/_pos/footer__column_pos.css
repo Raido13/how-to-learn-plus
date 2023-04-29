@@ -1,0 +1,5 @@
+.footer__column_pos {
+  display: flex;
+  flex-basis: 443px;
+  justify-content: space-between;
+}

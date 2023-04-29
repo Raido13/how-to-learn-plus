@@ -1,7 +1,17 @@
 @import url(../__column/_copyright/footer__column_copyright.css);
+@import url(../__column/_author/footer__column_author.css);
 @import url(../__column/_info/footer__column_info.css);
-@import url(../__column/_social/footer__column_social.css);
+@import url(../__column/_pos/footer__column_pos.css);
+@import url(../__column/_nav/footer__column_nav.css);
+@import url(../__column/_heading/footer__column_heading.css);
+@import url(../__column/_links/footer__column_links.css);
+@import url(../__column/_link/footer__column_link.css);
+@import url(../__column/_icons/footer__column_icons.css);
+@import url(../__column/_link-align/footer__column_link-align.css);
 
 .footer__columns{
   margin: 60px auto 40px;
+  display: flex;
+  justify-content: flex-start;
+  width: 90%;
 }

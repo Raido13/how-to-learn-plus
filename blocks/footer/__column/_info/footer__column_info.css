@@ -1,0 +1,5 @@
+.footer__column_info {
+  display: flex;
+  flex-basis: 720px;
+  justify-content: flex-end;
+}
