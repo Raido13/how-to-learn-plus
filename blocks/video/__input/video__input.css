@@ -1,0 +1,9 @@
+.video__input {
+  height: 316px;
+  width: 515px;
+  margin-top: 50px;
+}
+
+.video__input:nth-child(2) {
+  margin-left: 20px;
+}
