@@ -1,5 +1,6 @@
-@import url(../__book-pic-crop/khan__book-pic-crop.css);
-
 .khan__book-pic {
   width: 620px;
+  height: 608px;
+  object-fit: cover;
+  object-position: top;
 }

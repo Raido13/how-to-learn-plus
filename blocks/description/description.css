@@ -1,2 +1,5 @@
-@import url(../two-columns/two-columns.css);
-@import url(_pos/description_pos.css);
+.description {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}

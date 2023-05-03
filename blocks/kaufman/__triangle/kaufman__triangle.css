@@ -1,4 +1,3 @@
-@import url(../../rotation/rotation.css);
 .kaufman__triangle {
   width: 877px;
   height: 877px;
@@ -8,5 +7,5 @@
   position: absolute;
   top: -20px;
   right: -210px;
-  animation: rotation linear 20s infinite;
+  margin: 0;
 }

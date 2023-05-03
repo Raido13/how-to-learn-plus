@@ -1,11 +1,6 @@
-@import url(__brief/two-columns__brief.css);
-@import url(__main-text/two-columns__main-text.css);
-@import url(__pharagraph/two-columns__pharagraph.css);
-@import url(__span-accent/two-columns__span-accent.css);
-@import url(_pos/two-columns_pos.css);
-
 .two-columns {
   display: flex;
   justify-content: space-between;
   width: 80%;
+  min-width: 784px;
 }

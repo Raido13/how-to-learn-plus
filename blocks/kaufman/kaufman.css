@@ -1,5 +1,3 @@
-@import url(__triangle/kaufman__triangle.css);
-@import url(_pos/kaufman_pos.css);
 .kaufman{
   background-color: #1f1f1f;
   display: flex;
@@ -8,4 +6,5 @@
   text-align: center;
   overflow: hidden;
   position: relative;
+  padding: 90px 0;
 }
